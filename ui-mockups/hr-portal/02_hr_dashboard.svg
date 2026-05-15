@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<rect width="1440" height="900" fill="#F8F9FB"/>
+<rect x="0" y="0" width="250" height="900" fill="#111827"/>
+<rect x="32" y="34" width="42" height="34" rx="6" fill="#F5A623"/><text x="88" y="58" font-size="20" font-weight="700" fill="#F5A623">CANTEEN HUB</text>
+<text x="88" y="82" font-size="13" fill="white">HR PORTAL</text>
+<rect x="20" y="125" width="210" height="42" rx="8" fill="#2A3342"/><text x="48" y="150" font-size="15" fill="#F5A623">Dashboard</text><rect x="20" y="179" width="210" height="42" rx="8" fill="transparent"/><text x="48" y="204" font-size="15" fill="white">Staff Management</text><rect x="20" y="233" width="210" height="42" rx="8" fill="transparent"/><text x="48" y="258" font-size="15" fill="white">Credit Allocation</text><rect x="20" y="287" width="210" height="42" rx="8" fill="transparent"/><text x="48" y="312" font-size="15" fill="white">Policies</text><rect x="20" y="341" width="210" height="42" rx="8" fill="transparent"/><text x="48" y="366" font-size="15" fill="white">Approvals</text><rect x="20" y="395" width="210" height="42" rx="8" fill="transparent"/><text x="48" y="420" font-size="15" fill="white">Reports</text><rect x="20" y="449" width="210" height="42" rx="8" fill="transparent"/><text x="48" y="474" font-size="15" fill="white">Audit Logs</text><rect x="20" y="503" width="210" height="42" rx="8" fill="transparent"/><text x="48" y="528" font-size="15" fill="white">Settings</text><rect x="20" y="557" width="210" height="42" rx="8" fill="transparent"/><text x="48" y="582" font-size="15" fill="white">Logout</text>
+<rect x="250" y="0" width="1190" height="76" fill="white"/>
+<text x="290" y="48" font-size="24" font-weight="700" fill="#111827">Dashboard</text>
+<text x="1260" y="48" font-size="14" fill="#111827">🔔   HR Admin ▾</text>
+<line x1="250" y1="76" x2="1440" y2="76" stroke="#E5E7EB"/>
+<text x="290" y="112" font-size="15" fill="#6B7280">Overview of canteen operations</text>
+<rect x="290" y="140" width="240" height="120" rx="16" fill="white" stroke="#E5E7EB"/><text x="315" y="178" font-size="14" fill="#6B7280">Total Staff</text><text x="315" y="225" font-size="32" font-weight="700">1,248</text><text x="315" y="248" font-size="13" fill="#22C55E">+12 this month</text>
+<rect x="550" y="140" width="240" height="120" rx="16" fill="white" stroke="#E5E7EB"/><text x="575" y="178" font-size="14" fill="#6B7280">Credits Allocated</text><text x="575" y="225" font-size="32" font-weight="700">Rs 12,45,000</text><text x="575" y="248" font-size="13" fill="#22C55E">+8.5%</text>
+<rect x="810" y="140" width="240" height="120" rx="16" fill="white" stroke="#E5E7EB"/><text x="835" y="178" font-size="14" fill="#6B7280">Credits Consumed</text><text x="835" y="225" font-size="32" font-weight="700">Rs 8,76,500</text><text x="835" y="248" font-size="13" fill="#22C55E">+7.2%</text>
+<rect x="1070" y="140" width="240" height="120" rx="16" fill="white" stroke="#E5E7EB"/><text x="1095" y="178" font-size="14" fill="#6B7280">Outstanding</text><text x="1095" y="225" font-size="32" font-weight="700">Rs 3,68,500</text><text x="1095" y="248" font-size="13" fill="#EF4444">-2.1%</text>
+<rect x="290" y="300" width="610" height="360" rx="16" fill="white" stroke="#E5E7EB"/><text x="325" y="340" font-size="20" font-weight="700">Credits Consumed (This Month)</text>
+<polyline points="340,590 420,540 500,520 580,465 660,485 740,410 820,380" fill="none" stroke="#F5A623" stroke-width="4"/>
+<rect x="930" y="300" width="380" height="360" rx="16" fill="white" stroke="#E5E7EB"/><text x="965" y="340" font-size="20" font-weight="700">Consumption by Department</text>
+<circle cx="1090" cy="500" r="90" fill="none" stroke="#22C55E" stroke-width="35"/><path d="M1090 410 A90 90 0 0 1 1180 500" fill="none" stroke="#F5A623" stroke-width="35"/>
+<text x="1210" y="460" font-size="14">IT 40%</text><text x="1210" y="490" font-size="14">Operations 25%</text><text x="1210" y="520" font-size="14">Sales 15%</text>
+
+</svg>
