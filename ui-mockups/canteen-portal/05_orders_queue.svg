@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+
+    <rect width="1440" height="900" fill="#F8F9FB"/>
+    <rect x="0" y="0" width="250" height="900" fill="#111827"/>
+    <rect x="32" y="34" width="42" height="34" rx="6" fill="#F5A623"/>
+    <text x="88" y="58" font-size="20" font-weight="700" fill="#F5A623">CANTEEN HUB</text>
+    <text x="88" y="82" font-size="13" fill="white">CANTEEN PORTAL</text>
+    
+        <rect x="20" y="120" width="210" height="42" rx="8" fill="transparent"/>
+        <text x="48" y="145" font-size="15" fill="white">Dashboard</text>
+        
+        <rect x="20" y="170" width="210" height="42" rx="8" fill="transparent"/>
+        <text x="48" y="195" font-size="15" fill="white">Menu Management</text>
+        
+        <rect x="20" y="220" width="210" height="42" rx="8" fill="transparent"/>
+        <text x="48" y="245" font-size="15" fill="white">Add Food Item</text>
+        
+        <rect x="20" y="270" width="210" height="42" rx="8" fill="#2A3342"/>
+        <text x="48" y="295" font-size="15" fill="#F5A623">Orders Queue</text>
+        
+        <rect x="20" y="320" width="210" height="42" rx="8" fill="transparent"/>
+        <text x="48" y="345" font-size="15" fill="white">Order Processing</text>
+        
+        <rect x="20" y="370" width="210" height="42" rx="8" fill="transparent"/>
+        <text x="48" y="395" font-size="15" fill="white">Pickup Verification</text>
+        
+        <rect x="20" y="420" width="210" height="42" rx="8" fill="transparent"/>
+        <text x="48" y="445" font-size="15" fill="white">Billing</text>
+        
+        <rect x="20" y="470" width="210" height="42" rx="8" fill="transparent"/>
+        <text x="48" y="495" font-size="15" fill="white">Inventory</text>
+        
+        <rect x="20" y="520" width="210" height="42" rx="8" fill="transparent"/>
+        <text x="48" y="545" font-size="15" fill="white">Reports</text>
+        
+        <rect x="20" y="570" width="210" height="42" rx="8" fill="transparent"/>
+        <text x="48" y="595" font-size="15" fill="white">Settings</text>
+        
+        <rect x="20" y="620" width="210" height="42" rx="8" fill="transparent"/>
+        <text x="48" y="645" font-size="15" fill="white">Logout</text>
+        
+
+    <rect x="250" y="0" width="1190" height="76" fill="white"/>
+    <text x="290" y="48" font-size="24" font-weight="700" fill="#111827">Orders Queue</text>
+    <text x="1240" y="48" font-size="14" fill="#111827">🔔  Admin ▾</text>
+    <line x1="250" y1="76" x2="1440" y2="76" stroke="#E5E7EB"/>
+    
+<rect x="290" y="150" width="1070" height="620" rx="16" fill="white" stroke="#E5E7EB"/>
+
+<text x="330" y="210" font-size="16" font-weight="700">Pending Orders</text>
+
+<text x="330" y="280" font-size="14" font-weight="700">Order ID</text>
+<text x="500" y="280" font-size="14" font-weight="700">Staff</text>
+<text x="700" y="280" font-size="14" font-weight="700">Items</text>
+<text x="980" y="280" font-size="14" font-weight="700">Status</text>
+<text x="1140" y="280" font-size="14" font-weight="700">Action</text>
+
+    <text x="330" y="340" font-size="14">ORD182</text>
+    <text x="500" y="340" font-size="14">Santosh</text>
+    <text x="700" y="340" font-size="14">Veg Thali x2</text>
+    <text x="980" y="340" font-size="14" fill="#F5A623">Preparing</text>
+    <text x="1140" y="340" font-size="14" fill="#22C55E">Update</text>
+    <line x1="330" y1="364" x2="1280" y2="364" stroke="#E5E7EB"/>
+    
+    <text x="330" y="410" font-size="14">ORD183</text>
+    <text x="500" y="410" font-size="14">Priya</text>
+    <text x="700" y="410" font-size="14">Paneer Rice</text>
+    <text x="980" y="410" font-size="14" fill="#F5A623">Ready</text>
+    <text x="1140" y="410" font-size="14" fill="#22C55E">Update</text>
+    <line x1="330" y1="434" x2="1280" y2="434" stroke="#E5E7EB"/>
+    
+    <text x="330" y="480" font-size="14">ORD184</text>
+    <text x="500" y="480" font-size="14">Rohan</text>
+    <text x="700" y="480" font-size="14">Veg Thali</text>
+    <text x="980" y="480" font-size="14" fill="#F5A623">Preparing</text>
+    <text x="1140" y="480" font-size="14" fill="#22C55E">Update</text>
+    <line x1="330" y1="504" x2="1280" y2="504" stroke="#E5E7EB"/>
+    
+    <text x="330" y="550" font-size="14">ORD185</text>
+    <text x="500" y="550" font-size="14">Neha</text>
+    <text x="700" y="550" font-size="14">Rice + Drink</text>
+    <text x="980" y="550" font-size="14" fill="#F5A623">Pending</text>
+    <text x="1140" y="550" font-size="14" fill="#22C55E">Update</text>
+    <line x1="330" y1="574" x2="1280" y2="574" stroke="#E5E7EB"/>
+    
+</svg>
